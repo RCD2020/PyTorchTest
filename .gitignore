@@ -1,3 +1,8 @@
+# Virtual Environments
 /venv
+
+# Test and Training Data
 /data
+
+# Saved Models
 *.pth
