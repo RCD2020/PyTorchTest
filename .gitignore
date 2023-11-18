@@ -6,3 +6,6 @@
 
 # Saved Models
 *.pth
+
+# Stupid Apple Removing my data from my laptop and saving it on the cloud
+*.icloud
